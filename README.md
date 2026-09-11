@@ -230,3 +230,6 @@ This repository serves as the official landing page for Hide IP. The software is
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Hide IP today!**
+
+---
+**Last updated:** 2026-09-11 07:38:49 UTC
