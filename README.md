@@ -232,4 +232,4 @@ This repository serves as the official landing page for Hide IP. The software is
 **Get the most recent version of Hide IP today!**
 
 ---
-**Last updated:** 2026-10-27 20:20:23 UTC
+**Last updated:** 2026-10-28 00:10:33 UTC
